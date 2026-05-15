@@ -34,7 +34,7 @@ An intelligent market research agent combining real-time YFinance data with web-
 
 ### 📫 Connect with me
 - **Portfolio:** [Check out my work](#)
-- **LinkedIn:** [In/NeerajKadali](#)
+- **LinkedIn:** [In/NeerajKadali](https://linkedin.com/in/neeraj-kadali-78295b256)
 
 ---
 *“Building the bridge between what we see and how we code.”*
