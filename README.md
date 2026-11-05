@@ -209,7 +209,7 @@ Explored mathematical and computational aspects of higher-order matrix adjoints 
 I'm particularly interested in the intersection of theory and practical AI engineering:
 
 - Neural Networks and Computer Vision.
-- - Fullstack and MERN applications production grade deployment
+- Fullstack and MERN applications to production grade deployment
 - Mathematical Foundations of Machine Learning.
 - Machine Learning Systems and Data Processing.
 - Agentic AI and Multi-Agent Architectures.
